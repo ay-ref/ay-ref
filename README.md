@@ -11,12 +11,14 @@
 - examples/
 - course-coursename/
 - book-bookname/
+- site-sitename/
 
-## Source Abbriviation
+## Sources
 
 | abbriviation | source |
 | --- | --- |
-| fcc | free code camp |
-| mosh | moshfegh hamedani |
-| sbu | shahid beheshti university |
+| fcc | Free Code Camp |
+| mosh | Moshfegh Hamedani |
+| sbu | Shahid Beheshti University |
+| easewithdata (ed) | Ease with Data |
 | LASTROW | LASTROW |
