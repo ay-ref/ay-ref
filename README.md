@@ -5,8 +5,9 @@
 - README.md
   - toc
 - links.md
-- doc-tex/
-- doc-doctype/
+- doc-tex/: latex documentation
+- doc-doctype/: 
+- guide/: under the hood, about development or contribution
 - prepared/
 - examples/
 - course-coursename/
@@ -15,10 +16,10 @@
 
 ## Sources
 
-| abbriviation | source |
-| --- | --- |
-| fcc | Free Code Camp |
-| mosh | Moshfegh Hamedani |
-| sbu | Shahid Beheshti University |
-| easewithdata (ed) | Ease with Data |
-| LASTROW | LASTROW |
+| abbriviation      | source                     |
+| ----------------- | -------------------------- |
+| fcc               | Free Code Camp             |
+| mosh              | Moshfegh Hamedani          |
+| sbu               | Shahid Beheshti University |
+| easewithdata (ed) | Ease with Data             |
+| LASTROW           | LASTROW                    |
