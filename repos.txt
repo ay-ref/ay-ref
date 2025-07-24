@@ -1,0 +1,107 @@
+# gh repo ls -L 200 > repos.txt
+ay-ref/react		private	2025-07-24T08:35:39Z
+ay-ref/nest		private	2025-07-24T08:30:58Z
+ay-ref/linux	Notes on Linux!	public	2025-07-24T05:16:11Z
+ay-ref/chess		private	2025-07-23T18:03:21Z
+ay-ref/postgres		public	2025-07-23T10:20:24Z
+ay-ref/for-what	برای چه؟	private	2025-07-21T12:54:37Z
+ay-ref/markdown	My Markdown Reference	public	2025-07-17T13:28:03Z
+ay-ref/ay-ref		public	2025-07-16T04:44:55Z
+ay-ref/nifi		private	2025-07-15T11:36:31Z
+ay-ref/latex		public	2025-07-15T05:39:44Z
+ay-ref/dolphin-scheduler		private	2025-07-14T07:06:17Z
+ay-ref/life-points		private	2025-07-13T22:43:32Z
+ay-ref/react-native		private	2025-07-12T18:47:40Z
+ay-ref/r	R programming language notes.	private	2025-07-11T13:04:15Z
+ay-ref/tailwind		private	2025-07-09T17:39:32Z
+ay-ref/mongodb		public	2025-07-08T16:25:48Z
+ay-ref/nodejs	Node.js Notes!	private	2025-07-06T13:33:15Z
+ay-ref/design-pattern	Design Pattern Compact Notes!	private	2025-07-05T15:20:41Z
+ay-ref/python		private	2025-06-13T07:24:18Z
+ay-ref/ts		private	2025-06-11T05:42:51Z
+ay-ref/go		private	2025-06-07T13:25:09Z
+ay-ref/prefect		private	2025-06-03T08:52:34Z
+ay-ref/dagster		private	2025-06-02T10:51:27Z
+ay-ref/fp	Functional Programming Concepts & Tricks!	private	2025-05-29T21:29:40Z
+ay-ref/yaml		private	2025-05-28T04:50:27Z
+ay-ref/pylibs		private	2025-05-25T12:25:56Z
+ay-ref/unity		private	2025-05-22T15:51:56Z
+ay-ref/flink		private	2025-05-21T08:32:27Z
+ay-ref/ctf		private	2025-05-19T20:46:46Z
+ay-ref/bash		public	2025-05-19T19:42:44Z
+ay-ref/front		private	2025-05-18T07:09:24Z
+ay-ref/docker	My Notes on Docker!	public	2025-05-14T05:42:17Z
+ay-ref/software	Software Engineering compact notes...	public	2025-05-14T04:21:40Z
+ay-ref/kafka		public	2025-04-28T07:50:22Z
+ay-ref/git	The Most Compact Git Reference!	public	2025-04-27T12:51:17Z
+ay-ref/c-sharp		private	2025-04-24T07:25:00Z
+ay-ref/airflow		private	2025-04-22T13:56:48Z
+ay-ref/math		private	2025-04-13T05:10:44Z
+ay-ref/management		private	2025-04-06T17:20:44Z
+ay-ref/logic		private	2025-03-21T07:44:24Z
+ay-ref/buy		private	2025-03-18T20:42:41Z
+ay-ref/windows		private	2025-03-18T16:20:52Z
+ay-ref/kalman-filter		public	2025-03-16T05:34:02Z
+ay-ref/flutter		private	2025-03-14T05:37:40Z
+ay-ref/dsa	Data Structure & Algorithm.	private	2025-03-11T17:45:06Z
+ay-ref/file-system		private	2025-03-07T11:28:33Z
+ay-ref/game		private	2025-02-24T19:16:22Z
+ay-ref/php		private	2025-02-24T19:08:52Z
+ay-ref/ai		private	2025-02-19T18:44:22Z
+ay-ref/signal		private	2025-02-19T12:04:58Z
+ay-ref/logic-circuit		private	2025-02-19T11:18:42Z
+ay-ref/fla		private	2025-02-18T19:30:24Z
+ay-ref/sql		private	2025-02-18T19:29:59Z
+ay-ref/computer-arshad		private	2025-02-18T19:29:37Z
+ay-ref/operating-system		private	2025-02-18T19:29:03Z
+ay-ref/english		private	2025-02-16T08:14:07Z
+ay-ref/computer-network		private	2025-02-14T14:35:57Z
+ay-ref/redis		public	2025-02-11T05:04:47Z
+ay-ref/keepalived		private	2025-02-02T15:05:22Z
+ay-ref/etcd		private	2025-02-02T09:42:24Z
+ay-ref/game-dev		private	2025-02-02T05:25:13Z
+ay-ref/haproxy		private	2025-02-01T07:57:54Z
+ay-ref/qt-qml		private	2025-01-25T13:16:37Z
+ay-ref/devops		private	2025-01-22T07:19:32Z
+ay-ref/computer-vision		private	2025-01-18T08:21:20Z
+ay-ref/calculus		private	2025-01-16T08:53:40Z
+ay-ref/doc		private	2025-01-14T16:40:44Z
+ay-ref/ansible		private	2025-01-04T06:47:40Z
+ay-ref/vbox		private	2025-01-03T09:25:32Z
+ay-ref/quotes		private	2024-12-30T18:32:07Z
+ay-ref/books		private	2024-12-26T08:09:12Z
+ay-ref/philosophy		private	2024-12-25T07:27:31Z
+ay-ref/learning		private	2024-12-09T11:20:18Z
+ay-ref/nano		private	2024-11-28T12:18:18Z
+ay-ref/probability		private	2024-11-18T12:05:37Z
+ay-ref/vscode		private	2024-11-17T17:00:15Z
+ay-ref/physics		private	2024-11-07T05:01:24Z
+ay-ref/cheat		private	2024-11-05T12:07:20Z
+ay-ref/poem		private	2024-11-05T07:26:48Z
+ay-ref/food		private	2024-10-29T08:45:33Z
+ay-ref/docusaurus		private	2024-10-28T08:23:13Z
+ay-ref/Roading		private	2024-10-22T14:00:46Z
+ay-ref/linear-algebra		private	2024-10-20T07:08:31Z
+ay-ref/blc		private	2024-10-10T08:27:16Z
+ay-ref/regex		private	2024-10-03T12:19:41Z
+ay-ref/cpp		private	2024-09-28T19:54:47Z
+ay-ref/zsh		private	2024-09-25T18:42:31Z
+ay-ref/puppet		private	2024-09-25T12:17:51Z
+ay-ref/spark		public	2024-09-15T13:45:28Z
+ay-ref/geometery		private	2024-09-05T06:44:21Z
+ay-ref/iri-rules		private	2024-08-28T12:32:44Z
+ay-ref/mqtt		private	2024-08-27T04:34:48Z
+ay-ref/text-editor		private	2024-08-22T05:34:54Z
+ay-ref/django		private	2024-08-18T16:06:03Z
+ay-ref/elk		public	2024-08-15T13:43:31Z
+ay-ref/web-dev		private	2024-08-01T18:22:50Z
+ay-ref/tech-devices		private	2024-07-31T04:55:45Z
+ay-ref/meme		private	2024-07-27T12:46:17Z
+ay-ref/js		private	2024-07-27T09:12:43Z
+ay-ref/java		private	2024-07-27T09:12:24Z
+ay-ref/c		private	2024-07-27T08:45:51Z
+ay-ref/kubernetes		private	2024-07-21T12:20:34Z
+ay-ref/cryptography		public	2024-07-21T12:20:14Z
+ay-ref/microsoft-azure-devops		private	2024-07-09T04:37:50Z
+ay-ref/machine-learning		private	2023-04-19T22:41:19Z
+ay-ref/godot		private	2023-03-07T19:49:16Z
